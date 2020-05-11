@@ -14,5 +14,5 @@ commit:
 	git add -A
 	git commit -m "$(message)"
 pub:
-	git pull
+	git pull -r
 	git push
