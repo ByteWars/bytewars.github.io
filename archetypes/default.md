@@ -2,7 +2,6 @@
 weight: 1
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-date: {{ .Date }}
 draft: false
 author: "ByteWars"
 authorLink: "https://bytewars.cc"
