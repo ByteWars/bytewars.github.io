@@ -1,4 +1,4 @@
-# 个人博客网站
+# ByteWars社区博客网站
 
 
 ![github pages](https://github.com/bytewars/bytewars.github.io/workflows/github%20pages/badge.svg)
