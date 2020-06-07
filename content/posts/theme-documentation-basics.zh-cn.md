@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "主题文档 - 基本概念"
 date: 2020-03-06T21:40:32+08:00
 lastmod: 2020-03-06T21:40:32+08:00
@@ -13,7 +12,6 @@ tags: ["installation", "configuration"]
 categories: ["LoveIt"]
 featuredImage: "https://hugoloveit.com/images/theme-documentation-basics/featured-image.jpg"
 
-lightgallery: true
 
 toc:
   auto: false
