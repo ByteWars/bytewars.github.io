@@ -1,5 +1,4 @@
 ---
-weight: 4
 title: "ByteWars"
 draft: false
 author: ""
@@ -11,7 +10,6 @@ tags: []
 categories: [""]
 featuredImage: ""
 
-lightgallery: true
 ---
 
 

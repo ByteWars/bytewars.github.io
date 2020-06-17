@@ -659,7 +659,7 @@ enableEmoji = true
     enable = true
     # Custom content (HTML format is supported)
     # 自定义内容 (支持 HTML 格式)
-    custom = ''
+    custom = '友情链接: <div style="display: flex;justify-content: center;align-items: center;"><a style="display: flex;justify-content: center;align-items: center;margin: 0rem 1rem;" href="https://yihaimen.github.io"><span style="display: flex;justify-content: center;align-items: center;"><img style="height: 24px;" src="https://yihaimen.github.io/images/avatar.png"><span>易海门的博客</span></span></a><a style="display: flex;justify-content: center;align-items: center; margin: 0rem 1rem;" href="https://guzhongren.github.io"><span style="display: flex;justify-content: center;align-items: center;"><img style="height: 24px;" src="https://guzhongren.github.io/images/avatar.png"><span>谷中仁的博客</span></span></a></div>'
     # whether to show Hugo and theme info
     # 是否显示 Hugo 和主题信息
     hugo = true

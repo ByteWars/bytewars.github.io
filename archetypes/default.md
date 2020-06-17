@@ -1,5 +1,4 @@
 ---
-weight: 1
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: false
@@ -8,8 +7,6 @@ authorLink: "https://bytewars.cc"
 
 images: ["https://i.loli.net/2020/05/10/67DtxyJqFRz2YZH.png"]
 featuredImage: "https://i.loli.net/2020/05/10/67DtxyJqFRz2YZH.png"
-
-lightgallery: true
 
 description: ""
 tags: []
