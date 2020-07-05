@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://bytewars.github.io/sitemap.xml
+Sitemap: https://bytewars.github.io/en/sitemap.xml
